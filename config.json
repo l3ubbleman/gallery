@@ -81,14 +81,6 @@
       "placeholder_path": "./photos/portraits/IMG_8729-1.placeholder.jpg"
     },
     {
-      "width": 3456,
-      "height": 5184,
-      "path": "./photos/portraits/IMG_5694-2.jpg",
-      "compressed_path": "./photos/portraits/IMG_5694-2.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/portraits/IMG_5694-2.placeholder.jpg"
-    },
-    {
       "width": 5616,
       "height": 3744,
       "path": "./photos/portraits/IMG_3238-1.jpg",
