@@ -1,22 +1,6 @@
 {
   "portraits": [
     {
-      "width": 4687,
-      "height": 3456,
-      "path": "./photos/portraits/IMG_6093-3.jpg",
-      "compressed_path": "./photos/portraits/IMG_6093-3.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/portraits/IMG_6093-3.placeholder.jpg"
-    },
-    {
-      "width": 5616,
-      "height": 3744,
-      "path": "./photos/portraits/IMG_4299-1.png",
-      "compressed_path": "./photos/portraits/IMG_4299-1.min.png",
-      "compressed": true,
-      "placeholder_path": "./photos/portraits/IMG_4299-1.placeholder.png"
-    },
-    {
       "width": 5319,
       "height": 3546,
       "path": "./photos/portraits/IMG_4755-1.png",
@@ -57,36 +41,12 @@
       "placeholder_path": "./photos/portraits/IMG_4800-2.placeholder.jpg"
     },
     {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/portraits/IMG_5610-1.jpg",
-      "compressed_path": "./photos/portraits/IMG_5610-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/portraits/IMG_5610-1.placeholder.jpg"
-    },
-    {
       "width": 4867,
       "height": 3744,
       "path": "./photos/portraits/IMG_3882-1.png",
       "compressed_path": "./photos/portraits/IMG_3882-1.min.png",
       "compressed": true,
       "placeholder_path": "./photos/portraits/IMG_3882-1.placeholder.png"
-    },
-    {
-      "width": 3671,
-      "height": 5506,
-      "path": "./photos/portraits/IMG_3468-2.jpg",
-      "compressed_path": "./photos/portraits/IMG_3468-2.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/portraits/IMG_3468-2.placeholder.jpg"
-    },
-    {
-      "width": 5523,
-      "height": 3682,
-      "path": "./photos/portraits/IMG_4382-1.jpg",
-      "compressed_path": "./photos/portraits/IMG_4382-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/portraits/IMG_4382-1.placeholder.jpg"
     },
     {
       "width": 3456,
@@ -145,30 +105,6 @@
       "placeholder_path": "./photos/portraits/IMG_6338-2.placeholder.jpg"
     },
     {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/portraits/IMG_7305-2.jpg",
-      "compressed_path": "./photos/portraits/IMG_7305-2.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/portraits/IMG_7305-2.placeholder.jpg"
-    },
-    {
-      "width": 3629,
-      "height": 5443,
-      "path": "./photos/portraits/IMG_3644-1.png",
-      "compressed_path": "./photos/portraits/IMG_3644-1.min.png",
-      "compressed": true,
-      "placeholder_path": "./photos/portraits/IMG_3644-1.placeholder.png"
-    },
-    {
-      "width": 3744,
-      "height": 5616,
-      "path": "./photos/portraits/IMG_3500-3.jpg",
-      "compressed_path": "./photos/portraits/IMG_3500-3.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/portraits/IMG_3500-3.placeholder.jpg"
-    },
-    {
       "width": 3744,
       "height": 5616,
       "path": "./photos/portraits/IMG_4292-1.png",
@@ -209,44 +145,12 @@
       "placeholder_path": "./photos/portraits/IMG_4461-2.placeholder.jpg"
     },
     {
-      "width": 3456,
-      "height": 5184,
-      "path": "./photos/portraits/IMG_5558-2.jpg",
-      "compressed_path": "./photos/portraits/IMG_5558-2.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/portraits/IMG_5558-2.placeholder.jpg"
-    },
-    {
-      "width": 3744,
-      "height": 5616,
-      "path": "./photos/portraits/IMG_3891-2.jpg",
-      "compressed_path": "./photos/portraits/IMG_3891-2.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/portraits/IMG_3891-2.placeholder.jpg"
-    },
-    {
       "width": 5616,
       "height": 3744,
       "path": "./photos/portraits/IMG_3968-2.png",
       "compressed_path": "./photos/portraits/IMG_3968-2.min.png",
       "compressed": true,
       "placeholder_path": "./photos/portraits/IMG_3968-2.placeholder.png"
-    },
-    {
-      "width": 3403,
-      "height": 5104,
-      "path": "./photos/portraits/IMG_8566-2.jpg",
-      "compressed_path": "./photos/portraits/IMG_8566-2.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/portraits/IMG_8566-2.placeholder.jpg"
-    },
-    {
-      "width": 4735,
-      "height": 3157,
-      "path": "./photos/portraits/IMG_3888-1.jpg",
-      "compressed_path": "./photos/portraits/IMG_3888-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/portraits/IMG_3888-1.placeholder.jpg"
     }
   ],
   "travel": [
@@ -257,14 +161,6 @@
       "compressed_path": "./photos/travel/IMG_5178.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/travel/IMG_5178.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/travel/IMG_8186-3.jpg",
-      "compressed_path": "./photos/travel/IMG_8186-3.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_8186-3.placeholder.jpg"
     },
     {
       "width": 5122,
@@ -283,38 +179,6 @@
       "placeholder_path": "./photos/travel/IMG_6014-1.placeholder.jpg"
     },
     {
-      "width": 2977,
-      "height": 3969,
-      "path": "./photos/travel/IMG_1368-1.jpg",
-      "compressed_path": "./photos/travel/IMG_1368-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_1368-1.placeholder.jpg"
-    },
-    {
-      "width": 3456,
-      "height": 5184,
-      "path": "./photos/travel/IMG_5710-1.jpg",
-      "compressed_path": "./photos/travel/IMG_5710-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_5710-1.placeholder.jpg"
-    },
-    {
-      "width": 3236,
-      "height": 4315,
-      "path": "./photos/travel/IMG_8320-2.jpg",
-      "compressed_path": "./photos/travel/IMG_8320-2.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_8320-2.placeholder.jpg"
-    },
-    {
-      "width": 3456,
-      "height": 4473,
-      "path": "./photos/travel/IMG_6276-1.jpg",
-      "compressed_path": "./photos/travel/IMG_6276-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_6276-1.placeholder.jpg"
-    },
-    {
       "width": 5184,
       "height": 3456,
       "path": "./photos/travel/IMG_6116-1.jpg",
@@ -323,36 +187,12 @@
       "placeholder_path": "./photos/travel/IMG_6116-1.placeholder.jpg"
     },
     {
-      "width": 3456,
-      "height": 5184,
-      "path": "./photos/travel/IMG_7505-1.jpg",
-      "compressed_path": "./photos/travel/IMG_7505-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_7505-1.placeholder.jpg"
-    },
-    {
       "width": 3411,
       "height": 5116,
       "path": "./photos/travel/IMG_7848-3.jpg",
       "compressed_path": "./photos/travel/IMG_7848-3.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/travel/IMG_7848-3.placeholder.jpg"
-    },
-    {
-      "width": 5616,
-      "height": 3744,
-      "path": "./photos/travel/IMG_4083-1.jpg",
-      "compressed_path": "./photos/travel/IMG_4083-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_4083-1.placeholder.jpg"
-    },
-    {
-      "width": 3456,
-      "height": 5184,
-      "path": "./photos/travel/IMG_8281-1.jpg",
-      "compressed_path": "./photos/travel/IMG_8281-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_8281-1.placeholder.jpg"
     },
     {
       "width": 5184,
@@ -387,22 +227,6 @@
       "placeholder_path": "./photos/travel/IMG_3796-1.placeholder.jpg"
     },
     {
-      "width": 3386,
-      "height": 5079,
-      "path": "./photos/travel/IMG_8227-1.jpg",
-      "compressed_path": "./photos/travel/IMG_8227-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_8227-1.placeholder.jpg"
-    },
-    {
-      "width": 3308,
-      "height": 4997,
-      "path": "./photos/travel/IMG_2244-2.jpg",
-      "compressed_path": "./photos/travel/IMG_2244-2.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_2244-2.placeholder.jpg"
-    },
-    {
       "width": 5616,
       "height": 3744,
       "path": "./photos/travel/IMG_3413-4.jpg",
@@ -435,22 +259,6 @@
       "placeholder_path": "./photos/travel/IMG_2205-2.placeholder.jpg"
     },
     {
-      "width": 4864,
-      "height": 3243,
-      "path": "./photos/travel/IMG_8104-3.jpg",
-      "compressed_path": "./photos/travel/IMG_8104-3.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_8104-3.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/travel/IMG_5749-1.jpg",
-      "compressed_path": "./photos/travel/IMG_5749-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_5749-1.placeholder.jpg"
-    },
-    {
       "width": 3439,
       "height": 5158,
       "path": "./photos/travel/IMG_7373-1.jpg",
@@ -468,35 +276,11 @@
     },
     {
       "width": 3456,
-      "height": 5184,
-      "path": "./photos/travel/IMG_6216-1.jpg",
-      "compressed_path": "./photos/travel/IMG_6216-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_6216-1.placeholder.jpg"
-    },
-    {
-      "width": 3456,
       "height": 4536,
       "path": "./photos/travel/IMG_6288-2.jpg",
       "compressed_path": "./photos/travel/IMG_6288-2.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/travel/IMG_6288-2.placeholder.jpg"
-    },
-    {
-      "width": 4658,
-      "height": 3105,
-      "path": "./photos/travel/IMG_6323-1.jpg",
-      "compressed_path": "./photos/travel/IMG_6323-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_6323-1.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3371,
-      "path": "./photos/travel/IMG_6284-1.jpg",
-      "compressed_path": "./photos/travel/IMG_6284-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_6284-1.placeholder.jpg"
     },
     {
       "width": 5184,
@@ -505,22 +289,6 @@
       "compressed_path": "./photos/travel/IMG_6058-1.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/travel/IMG_6058-1.placeholder.jpg"
-    },
-    {
-      "width": 3744,
-      "height": 4662,
-      "path": "./photos/travel/IMG_4130-2.jpg",
-      "compressed_path": "./photos/travel/IMG_4130-2.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_4130-2.placeholder.jpg"
-    },
-    {
-      "width": 2836,
-      "height": 3744,
-      "path": "./photos/travel/IMG_3989-1.jpg",
-      "compressed_path": "./photos/travel/IMG_3989-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_3989-1.placeholder.jpg"
     },
     {
       "width": 3456,
@@ -539,14 +307,6 @@
       "placeholder_path": "./photos/travel/IMG_4055-2.placeholder.jpg"
     },
     {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/travel/IMG_5722-1.jpg",
-      "compressed_path": "./photos/travel/IMG_5722-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_5722-1.placeholder.jpg"
-    },
-    {
       "width": 3456,
       "height": 5184,
       "path": "./photos/travel/IMG_7926-1.jpg",
@@ -561,14 +321,6 @@
       "compressed_path": "./photos/travel/IMG_1827-1.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/travel/IMG_1827-1.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/travel/IMG_6301-1.jpg",
-      "compressed_path": "./photos/travel/IMG_6301-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_6301-1.placeholder.jpg"
     },
     {
       "width": 5567,
@@ -667,14 +419,6 @@
       "placeholder_path": "./photos/travel/IMG_7980-2.placeholder.jpg"
     },
     {
-      "width": 3024,
-      "height": 4032,
-      "path": "./photos/travel/IMG_8579-1.jpg",
-      "compressed_path": "./photos/travel/IMG_8579-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_8579-1.placeholder.jpg"
-    },
-    {
       "width": 5337,
       "height": 3558,
       "path": "./photos/travel/IMG_4117-1.jpg",
@@ -715,28 +459,12 @@
       "placeholder_path": "./photos/travel/IMG_8352-1.placeholder.jpg"
     },
     {
-      "width": 4381,
-      "height": 2921,
-      "path": "./photos/travel/IMG_1435-2.jpg",
-      "compressed_path": "./photos/travel/IMG_1435-2.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_1435-2.placeholder.jpg"
-    },
-    {
       "width": 3331,
       "height": 4996,
       "path": "./photos/travel/IMG_8249-3.jpg",
       "compressed_path": "./photos/travel/IMG_8249-3.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/travel/IMG_8249-3.placeholder.jpg"
-    },
-    {
-      "width": 3315,
-      "height": 4973,
-      "path": "./photos/travel/IMG_7844-4.jpg",
-      "compressed_path": "./photos/travel/IMG_7844-4.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_7844-4.placeholder.jpg"
     },
     {
       "width": 5616,
@@ -753,14 +481,6 @@
       "compressed_path": "./photos/travel/IMG_8292-1.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/travel/IMG_8292-1.placeholder.jpg"
-    },
-    {
-      "width": 5616,
-      "height": 3744,
-      "path": "./photos/travel/IMG_4837-1.jpg",
-      "compressed_path": "./photos/travel/IMG_4837-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_4837-1.placeholder.jpg"
     },
     {
       "width": 5138,
@@ -785,14 +505,6 @@
       "compressed_path": "./photos/travel/IMG_6001-1.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/travel/IMG_6001-1.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/travel/IMG_5050-2.jpg",
-      "compressed_path": "./photos/travel/IMG_5050-2.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/travel/IMG_5050-2.placeholder.jpg"
     },
     {
       "width": 5181,
