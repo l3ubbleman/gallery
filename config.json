@@ -25,14 +25,6 @@
       "placeholder_path": "./photos/portraits/IMG_3637-2.placeholder.jpg"
     },
     {
-      "width": 3456,
-      "height": 5184,
-      "path": "./photos/portraits/IMG_5981-3.jpg",
-      "compressed_path": "./photos/portraits/IMG_5981-3.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/portraits/IMG_5981-3.placeholder.jpg"
-    },
-    {
       "width": 5616,
       "height": 3744,
       "path": "./photos/portraits/IMG_4800-2.jpg",
@@ -169,6 +161,14 @@
       "compressed_path": "./photos/travel/IMG_6014-1.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/travel/IMG_6014-1.placeholder.jpg"
+    },
+    {
+      "width": 3456,
+      "height": 5184,
+      "path": "./photos/travel/IMG_5981-3.jpg",
+      "compressed_path": "./photos/travel/IMG_5981-3.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/travel/IMG_5981-3.placeholder.jpg"
     },
     {
       "width": 5184,
